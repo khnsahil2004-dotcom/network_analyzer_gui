@@ -41,6 +41,6 @@ It uses **Scapy** for packet sniffing and **Tkinter** for an interactive GUI.
 pip install scapy
 
 **Installation & Usage:**   
-git clone https://github.com/your-username/smart-network-analyzer.git   
+git clone https://github.com/khnsahil2004-dotcom/network_analyzer_gui.git
 cd network_analyzer_gui.py
 
